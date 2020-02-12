@@ -31,4 +31,4 @@
 1. Clone este repositorio.
 2. `cd devradar-api`<br />
 3. `yarn` para instalar as dependências.<br />
-4. `yarn start` para inicializar.<br />
+4. `yarn dev` para inicializar.<br />
