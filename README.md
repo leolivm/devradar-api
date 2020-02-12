@@ -18,7 +18,7 @@
 
 - Cálculos de distância utilizando a API de mapas do Google
 - Utilização de servidor websocket.
-- Utilização do *mongoose atlas* para armazenamento dos dados.
+- Utilização do **`mongoose atlas`** para armazenamento dos dados.
 
 ## :computer: Tecnologias utilizadas:
 
