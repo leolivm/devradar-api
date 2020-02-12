@@ -2,7 +2,7 @@
   DevRadar
 </h3>
 
-<blockquote align="center">API para ser utilizada com SgeMobileApp.</blockquote>
+<blockquote align="center">Projeto resultado da Semana Omnistack #10.</blockquote>
 
 <p align="center">
   <a href="http://sgeinformatica.com.br/">
